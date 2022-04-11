@@ -1,0 +1,3 @@
+# FriendlyChat
+
+Testing Firebase Functionalities
